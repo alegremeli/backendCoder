@@ -1,0 +1,21 @@
+[
+    {
+    "title": "Manga Uzumaki",
+    "price": 2000,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_775401-MLA48776215709_012022-O.webp",
+    "id": 1
+    },
+    {
+    "title": "Manga Berserk 27",
+    "price": 2000,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_763085-MLA49432333436_032022-O.webp",
+    "id": 2
+    },
+    {
+    "title": "Manga Dorohedoro 1",
+    "price": 2000,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_691062-MLA51760448918_092022-O.webp",
+    "id": 3
+    }
+
+]
